@@ -22,11 +22,11 @@ Click [here](https://drive.google.com/drive/folders/1HB5liX3oxdvNZKKBW7vA2FU-Fwm
 
 ## Tutorials
 
-Google Colab for **yolov5s model** notebook with free GPU:  
+Google Colab notebook with free GPU for **yolov5s model** :  
 <a href="https://colab.research.google.com/github/anastasiyaperk/yolov5_traffic_sign_recognition/blob/master/tutorials/Train_300_yolov5s.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>  
-Google Colab for **yolov5m model** notebook with free GPU:  
+Google Colab notebook with free GPU for **yolov5m model** :  
 <a href="https://colab.research.google.com/github/anastasiyaperk/yolov5_traffic_sign_recognition/blob/master/tutorials/Train_300_yolov5m.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>  
-Google Colab for **yolov5l model** notebook with free GPU:  
+Google Colab notebook with free GPU for **yolov5l model** :  
 <a href="https://colab.research.google.com/github/anastasiyaperk/yolov5_traffic_sign_recognition/blob/master/tutorials/Train_300_yolov5l.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>  
 
 
