@@ -1,4 +1,4 @@
-#YOLOv5 for traffic sign recognition
+## YOLOv5 for traffic sign recognition
 
 ## Pretrained Checkpoints
 Checkpoints based on RTSD-2000:  
