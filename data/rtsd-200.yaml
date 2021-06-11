@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Yolov5/yolov5/rtsd-200/images/train
+val: /content/drive/MyDrive/Yolov5/yolov5/rtsd-200/images/val
+nc: 2
+names: ['5_19_1', '2_1']
