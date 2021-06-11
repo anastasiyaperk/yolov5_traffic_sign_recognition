@@ -27,6 +27,7 @@ storage.googleapis.com
 runs/*
 !data/images/zidane.jpg
 !data/images/bus.jpg
+!data/images/traffic_sign.jpg
 !data/*.sh
 
 pycocotools/*
