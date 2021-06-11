@@ -25,11 +25,8 @@
 
 storage.googleapis.com
 runs/*
-data/video/*
 !data/images/zidane.jpg
 !data/images/bus.jpg
-!data/rtsd-200.yaml
-!data/rtsd-1000.yaml
 !data/*.sh
 
 pycocotools/*
